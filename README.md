@@ -2,6 +2,12 @@
 
 dmenu is an efficient dynamic menu for X. It's one of suckless utilities, more info [here](https://tools.suckless.org/dmenu/).
 
+## Patches
+
+As this is my own build, I've added some patches to it.
+
+- [center](https://tools.suckless.org/dmenu/patches/center/)
+
 ## Requirements
 
 In order to build dmenu you need the Xlib header files.
