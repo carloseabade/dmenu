@@ -7,6 +7,7 @@ dmenu is an efficient dynamic menu for X. It's one of suckless utilities, more i
 As this is my own build, I've added some patches to it.
 
 - [center](https://tools.suckless.org/dmenu/patches/center/)
+- [border](https://tools.suckless.org/dmenu/patches/border/)
 
 ## Requirements
 
